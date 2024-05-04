@@ -1,4 +1,4 @@
-# Join the discord server (this is not official roop server!) https://discord.gg/hzrJBGPpgN
+# Join the discord server (this is not official roop server!)
 Take a video and replace the face in it with a face of your choice. You only need one image of the desired face. No dataset, no training.
 
 Also allow row render (original, faceswap, enchance face via codeformer or gfpgan):
