@@ -3,9 +3,8 @@ Take a video and replace the face in it with a face of your choice. You only nee
 
 Also allow row render (original, faceswap, enchance face via codeformer or gfpgan):
 
-![demo-gif](demo_faceswap_codeformer.jpg)
 
-[colab link](https://colab.research.google.com/github/RichardErkhov/Richard-roop/blob/main/richard-roop-main.ipynb)
+[colab link](https://colab.research.google.com/github/minhhai113/hoandoirichard/blob/main/richard-roop-main.ipynb)
 
 # easy installation guide for windows users
 ```
